@@ -22,4 +22,4 @@ The To-Do List App is a simple and intuitive web application that allows users t
 
 1. **Clone the Repository**:
    ```bash
-   git clone <>
+   git clone https://github.com/HAPPY8532/To-Do-List-App.git
